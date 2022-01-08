@@ -5,10 +5,15 @@ $ Acronimo de Aplication Programming Interface(interface de Programção de Apli
 
  ## Rest :
 $ Um acrônimo para Representational State Transfer(Transferência de Estado Representativo).
+
 $ Será feita a transferência de dados de uma maneira simbólica,figurativa, representativa, de maneira simbólica.
+
 $ O rest, delimita algumas obrigações nessas transferências de dados.
+
 $ Determinar umas obrigações em tranferencia de dados.
+
 $ Geralmente utilizando protocolo HTTP.
+
 $ Resources sera , uma entidade , um objeto.
 
  ## Restful :
