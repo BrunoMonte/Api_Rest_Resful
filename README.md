@@ -5,10 +5,15 @@ $ Acronimo de Aplication Programming Interface(interface de Programção de Apli
 
  ## Rest :
 $ Um acrônimo para Representational State Transfer(Transferência de Estado Representativo).
+
 $ Será feita a transferência de dados de uma maneira simbólica,figurativa, representativa, de maneira simbólica.
+
 $ O rest, delimita algumas obrigações nessas transferências de dados.
+
 $ Determinar umas obrigações em tranferencia de dados.
+
 $ Geralmente utilizando protocolo HTTP.
+
 $ Resources sera , uma entidade , um objeto.
 
  ## Restful :
@@ -25,14 +30,16 @@ $ -_Layered System_: O cliente cessa a um endpoint , sem precisar saber da compl
 
 $ -_Code on demand (opcional)_: Dá a possibilidade da nossa aplicação pega códigos , como o Javascript, por exemplo, e executar no cliente. 
 
+
 ## Status error
 
-400 Solicitação Inválida
-401 não autorizado
-403 Proibido
-405 Método Não Permitido
-406 Não Aceitável
-412 Falha na pré-condição
-417 Expectativa falhou
-422 Entidade Não Processável
-424 Dependência com Falha
+$   400 Solicitação Inválida
+    401 não autorizado
+    403 Proibido
+    405 Método Não Permitido
+    406 Não Aceitável
+    412 Falha na pré-condição
+    417 Expectativa falhou
+    422 Entidade Não Processável
+    424 Dependência com Falha
+
