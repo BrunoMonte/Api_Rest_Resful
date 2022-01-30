@@ -24,3 +24,15 @@ $ -_Cacheable_: As repostas para uma requesição, deverão ser explicitas ao di
 $ -_Layered System_: O cliente cessa a um endpoint , sem precisar saber da complexidade, de quais passos estão sendo necessários para o servidor responder a requesição, os quais outras camadas o servidor estará lidando, para que a requesição seja respondida.
 
 $ -_Code on demand (opcional)_: Dá a possibilidade da nossa aplicação pega códigos , como o Javascript, por exemplo, e executar no cliente. 
+
+## Status error
+
+400 Solicitação Inválida
+401 não autorizado
+403 Proibido
+405 Método Não Permitido
+406 Não Aceitável
+412 Falha na pré-condição
+417 Expectativa falhou
+422 Entidade Não Processável
+424 Dependência com Falha
